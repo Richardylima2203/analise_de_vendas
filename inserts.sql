@@ -19,3 +19,4 @@ INSERT INTO itens_pedido (id_pedido, id_produto, quantidade) VALUES
 (1, 2, 2),
 (2, 4, 1),
 (3, 3, 1);
+

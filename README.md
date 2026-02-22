@@ -7,6 +7,7 @@ Simular um banco de dados de um sistema de vendas e realizar análises utilizand
 # 🛠 Tecnologias
 - MySQL
 - SQL
+- Biblioteca Pandas
 
 # 🗂 Estrutura do Banco
 - Clientes
