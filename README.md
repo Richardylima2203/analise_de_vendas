@@ -13,7 +13,7 @@ Simular um banco de dados de um sistema de vendas e realizar análises utilizand
 - Clientes
 - Produtos
 - Pedidos
-- Itens do Pedido
+- Ceps
 
 # 📈 Análises Realizadas
 - Faturamento total
